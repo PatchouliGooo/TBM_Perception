@@ -1,6 +1,6 @@
 # TBM-Excavatability
 
-### Machine-Perception–Oriented Excavatability Classification for TBM Automation
+### Weakly Supervised Prototype Learning for TBM-Oriented Ground Classification
 
 The implementation associated with our paper  
 *Weakly Supervised Prototype Learning for TBM-Oriented Ground Classification*  
